@@ -3,5 +3,5 @@
 コードや内容は以下のサイトから引用・改変しています。  
 [Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～ - Qiita](https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0)
 
-localでプログラムを動かさない場合はこちらを使ってください。
+下記のkernelでもLab_Study_Titanic.ipynbと同様のプログラムを試すことができます。
 https://www.kaggle.com/saito38/lab-study
